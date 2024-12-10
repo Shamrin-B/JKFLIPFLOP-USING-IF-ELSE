@@ -34,11 +34,11 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 ```
-1.set input configure switches for j and k input .
-2.run simulation :simulate circuit to see output on LEDs.
-3.check the truth table :verify the output with jk Flip-Flop truth table.
-4.analyze result:analyze result,take the screenshort,and generate report.
-
+1.Type the program in the Quartus software.
+2.compile and run the program.
+3.geenerate the RTL schematic and save the logical diagram.
+4.creat the node for the input and output to generate the timing diagram.
+5.for the different input combination generate the timing diagram.
  ```
 
 **PROGRAM**
